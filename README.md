@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Chikisama/chikisama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 自我介绍
+### 自我介绍😄😄
 - 学习能力较强。大一获得三等奖学金。3个月自学HTML、CSS、JS等前端知识，并成功临摹了一个网站的大致外观，如下图所示。
 - 具有一定的组织能力。大一曾担任副班长，组织队员参加班服设计比赛。
 - 积极参加校园活动，食药安全漫画竞赛中获得优胜奖，多次组队参加学校举办的信息杯，制作的社团活动海报被多次选用。
 - 喜欢看漫画，自学Photoshop并且能够熟练运用，曾经是日漫汉化组的成员，为漫画嵌字。(๑•̀ㅂ•́)و✧
 - 正在备考教师资格证。
-![image](C:\Users\Chiki\Desktop\1.jpg)
+![1.jpg](https://i.loli.net/2020/09/07/UtzmsxXdZMEhHFq.jpg)
